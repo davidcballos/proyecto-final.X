@@ -1,0 +1,5 @@
+build/default/production/usart.p1:  \
+usart.c  \
+usart.h  \
+main.h  \
+device_config.h 
