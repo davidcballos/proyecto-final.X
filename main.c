@@ -124,3 +124,6 @@ void secuencia2(){
     }while(dato=='S');
     
 }
+
+//texto para crear lina de codigo 
+//con 2 lineas de codigos
