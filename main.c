@@ -10,6 +10,7 @@
 #include "main.h"
 #include "usart.h"
 #include "adc.h"
+void secuencia3 (void);
 void secuencia (void);
 void secuencia2(void);
 void apagar(void);
