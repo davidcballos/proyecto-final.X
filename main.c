@@ -10,6 +10,7 @@
 #include "main.h"
 #include "usart.h"
 #include "adc.h"
+//un texto mas
 void secuencia3 (void);
 void secuencia (void);
 void secuencia2(void);
