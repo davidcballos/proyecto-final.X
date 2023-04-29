@@ -126,5 +126,11 @@ void secuencia2(){
     
 }
 
+void muestreo (){
+	int i=0;
+	
+	for(i=0; i<10; i++){
+		printf("%d\n",i);
+	}
 //texto para crear lina de codigo 
 //con 2 lineas de codigos
